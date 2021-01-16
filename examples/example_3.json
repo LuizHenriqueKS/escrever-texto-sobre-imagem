@@ -1,0 +1,48 @@
+{
+   "srcImgPath": "example_3.jpg",
+   "texts": [
+      {
+         "w": 92,
+         "x": 247,
+         "h": 42,
+         "y": 92,
+         "text": "TREINE O QUANTO QUISER, ADEPTO."
+      },
+      {
+         "w": 26,
+         "x": 78,
+         "h": 15,
+         "y": 103,
+         "text": "НА."
+      },
+      {
+         "w": 173,
+         "x": 364,
+         "h": 74,
+         "y": 103,
+         "text": "ASSIM QUE O VERDADEIRO MESTRE DESTE MUNDO SE LEVANTAR NOVAMENTE, NÃO HAVERÁ NADA QUE VOCÊ POSSA FAZER."
+      },
+      {
+         "w": 242,
+         "x": 63,
+         "h": 47,
+         "y": 274,
+         "text": "@EUNSTEVERS"
+      },
+      {
+         "w": 202,
+         "x": 334,
+         "h": 110,
+         "y": 377,
+         "text": "A BESTA DEVORARÁ AS LINHAS LEY, E SUA FANTASIA E FALSA PROSPERIDADE FINALMENTE CHEGARÃO E EU A MATAREI."
+      },
+      {
+         "w": 141,
+         "x": 387,
+         "h": 78,
+         "y": 590,
+         "text": "VOCÊ NÃO PODE FAZER ISSO EU VOU MATÁ-LO."
+      }
+   ],
+   "outImgPath": "out/example_3.result.jpg"
+}

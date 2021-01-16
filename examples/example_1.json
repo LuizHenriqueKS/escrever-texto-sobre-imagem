@@ -1,0 +1,48 @@
+{
+   "srcImgPath": "example_1.tmp",
+   "texts": [
+      {
+         "w": 50,
+         "x": 174,
+         "h": 102,
+         "y": 41,
+         "text": "É POR ISSO QUE SÓ PROCURO MORA E COISAS QUE SÃO ETERNAS."
+      },
+      {
+         "w": 77,
+         "x": 365,
+         "h": 79,
+         "y": 48,
+         "text": "NÃO EXISTEM HOMENS BONS E CONFIÁVEIS!"
+      },
+      {
+         "w": 39,
+         "x": 527,
+         "h": 8,
+         "y": 99,
+         "text": "ETERNO"
+      },
+      {
+         "w": 26,
+         "x": 488,
+         "h": 8,
+         "y": 104,
+         "text": "MORA"
+      },
+      {
+         "w": 25,
+         "x": 611,
+         "h": 14,
+         "y": 101,
+         "text": "G00 MAN"
+      },
+      {
+         "w": 50,
+         "x": 556,
+         "h": 15,
+         "y": 340,
+         "text": "EHE-"
+      }
+   ],
+   "outImgPath": "out/example_1.result.jpg"
+}

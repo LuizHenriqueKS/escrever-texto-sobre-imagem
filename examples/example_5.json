@@ -1,0 +1,41 @@
+{
+   "srcImgPath": "example_5.jpg",
+   "texts": [
+      {
+         "w": 126,
+         "x": 71,
+         "h": 34,
+         "y": 11,
+         "text": "Guilherme Boulos @GuilhermeBoulos"
+      },
+      {
+         "w": 16,
+         "x": 562,
+         "h": 3,
+         "y": 18,
+         "text": "000"
+      },
+      {
+         "w": 221,
+         "x": 13,
+         "h": 13,
+         "y": 74,
+         "text": "In reply to @GuilhermeBoulos"
+      },
+      {
+         "w": 556,
+         "x": 13,
+         "h": 175,
+         "y": 102,
+         "text": "Ford's closure is symbolic of deindustrialization in Brazil. The absence of industrial policy and the lack of investment in innovation - including non-polluting technologies, which automakers are pressured to adopt worldwide - reinforce the country's subordinate role."
+      },
+      {
+         "w": 318,
+         "x": 13,
+         "h": 18,
+         "y": 294,
+         "text": "6:28 PM - Jan 15, 2021 · Twitter for Android"
+      }
+   ],
+   "outImgPath": "out/example_5.result.jpg"
+}

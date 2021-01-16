@@ -1,0 +1,41 @@
+{
+   "srcImgPath": "example_4.jpg",
+   "texts": [
+      {
+         "w": 197,
+         "x": 36,
+         "h": 31,
+         "y": 78,
+         "text": "new users"
+      },
+      {
+         "w": 167,
+         "x": 442,
+         "h": 22,
+         "y": 128,
+         "text": "old users"
+      },
+      {
+         "w": 287,
+         "x": 26,
+         "h": 73,
+         "y": 266,
+         "text": "hmmmmm, but what a beautiful app"
+      },
+      {
+         "w": 178,
+         "x": 311,
+         "h": 32,
+         "y": 385,
+         "text": "old users"
+      },
+      {
+         "w": 572,
+         "x": 31,
+         "h": 35,
+         "y": 683,
+         "text": "yes, we call it going and not coming back"
+      }
+   ],
+   "outImgPath": "out/example_4.result.jpg"
+}
